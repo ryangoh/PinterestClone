@@ -6,6 +6,7 @@ gem 'devise', '~> 3.5', '>= 3.5.3'
 gem "paperclip", "~> 4.3"
 gem 'masonry-rails'
 gem 'acts_as_votable', '~> 0.10.0'
+gem 'rails_12factor'
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.2.3'
 # Use postgresql as the database for Active Record
